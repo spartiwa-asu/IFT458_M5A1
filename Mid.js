@@ -4,3 +4,5 @@ function loggerMiddleware(req, res, next) {
 }
 
 module.exports = loggerMiddleware;
+
+//logz incoming reqs
